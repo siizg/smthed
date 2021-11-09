@@ -33,7 +33,7 @@ public class Triangle implements Figure {
 
     @Override
     public void setColor(Color c) {
-        this.color = c;
+        color = c;
     }
 
     public double getSurface() {
